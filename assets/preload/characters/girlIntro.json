@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "phone",
+			"indices": [],
+			"name": "phone"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0
+			],
+			"name": "phone"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "phone",
+			"indices": [
+				90
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/girl_intro",
+	"position": [
+		176,
+		178
+	],
+	"healthicon": "girl",
+	"flip_x": true,
+	"healthbar_colors": [
+		237,
+		104,
+		161
+	],
+	"camera_position": [
+		-230,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
